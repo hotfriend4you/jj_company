@@ -1,0 +1,10 @@
+C:\Users\bobo_air\Documents\GitHub\jj_company\SystemTimeSyncTool\SystemTimeSyncTool\bin\Debug\SystemTimeSyncTool.exe.config
+C:\Users\bobo_air\Documents\GitHub\jj_company\SystemTimeSyncTool\SystemTimeSyncTool\bin\Debug\SystemTimeSyncTool.exe
+C:\Users\bobo_air\Documents\GitHub\jj_company\SystemTimeSyncTool\SystemTimeSyncTool\bin\Debug\SystemTimeSyncTool.pdb
+C:\Users\bobo_air\Documents\GitHub\jj_company\SystemTimeSyncTool\SystemTimeSyncTool\obj\Debug\SystemTimeSyncTool.FrmTimeSyncTool.resources
+C:\Users\bobo_air\Documents\GitHub\jj_company\SystemTimeSyncTool\SystemTimeSyncTool\obj\Debug\SystemTimeSyncTool.Properties.Resources.resources
+C:\Users\bobo_air\Documents\GitHub\jj_company\SystemTimeSyncTool\SystemTimeSyncTool\obj\Debug\SystemTimeSyncTool.csproj.GenerateResource.cache
+C:\Users\bobo_air\Documents\GitHub\jj_company\SystemTimeSyncTool\SystemTimeSyncTool\obj\Debug\SystemTimeSyncTool.csproj.CoreCompileInputs.cache
+C:\Users\bobo_air\Documents\GitHub\jj_company\SystemTimeSyncTool\SystemTimeSyncTool\obj\Debug\SystemTimeSyncTool.exe
+C:\Users\bobo_air\Documents\GitHub\jj_company\SystemTimeSyncTool\SystemTimeSyncTool\obj\Debug\SystemTimeSyncTool.pdb
+C:\Users\bobo_air\Documents\GitHub\jj_company\SystemTimeSyncTool\SystemTimeSyncTool\obj\Debug\SystemTimeSyncTool.csprojAssemblyReference.cache
